@@ -50,7 +50,7 @@
   <component name="RunManager" selected="Application.StackOperator">
     <configuration name="Revarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="progarm.Revarray" />
-      <module name="Java" />
+      <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="progarm.*" />
@@ -63,13 +63,26 @@
     </configuration>
     <configuration name="StackOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="progarm.StackOperator" />
-      <module name="Java" />
+      <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="progarm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaPrograms" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
